@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./coding-banner.png" width="100%" />
+  <img src="./coding-banner.png" width="100%" height="350px"/>
 </p>
 
 <h1 align="center">Hi, I'm Aalaya 👋</h1>
